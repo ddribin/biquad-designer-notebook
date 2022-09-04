@@ -1,2 +1,4 @@
-# biquad-designer-notebook
-A biquad IIR filter designer in a Jupyter notebook
+# Biquad Dsigner Notebook
+
+A biquad IIR filter designer in a Jupyter notebook.
+
