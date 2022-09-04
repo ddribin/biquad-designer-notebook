@@ -1,4 +1,4 @@
-# Biquad Dsigner Notebook
+# Biquad Designer Notebook
 
 A biquad IIR filter designer in a Jupyter notebook using the formulas from the [Audio EQ Cookbook](https://www.w3.org/TR/audio-eq-cookbook/).
 
