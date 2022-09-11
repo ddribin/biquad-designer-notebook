@@ -1,0 +1,8 @@
+name: biquad-filter-designer
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - matplotlib
